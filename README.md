@@ -1,4 +1,4 @@
-# so_long - 42 Project
+# so_long - 1337 Project
 
 ## Description
 The **so_long** project is part of the 1337 curriculum, where you are tasked with creating a simple 2D game using the **MinilibX** library. The game features a player navigating a map, collecting items (e.g., collectibles or keys), and reaching a goal, all while avoiding obstacles or enemies. This project helps you develop skills in working with graphics, user input, and game logic.
