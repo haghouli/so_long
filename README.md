@@ -3,6 +3,10 @@
 ## Description
 The **so_long** project is part of the 1337 curriculum, where you are tasked with creating a simple 2D game using the **MinilibX** library. The game features a player navigating a map, collecting items (e.g., collectibles or keys), and reaching a goal, all while avoiding obstacles or enemies. This project helps you develop skills in working with graphics, user input, and game logic.
 
+## Team members
+- haghouli(me)
+- mohcin tadlaoui [GitHub Pages](https://github.com/motadlaoui).
+
 ### Features:
 - **Player Movement**: The player can move across the screen using the arrow keys.
 - **Collectibles**: The player can collect items to earn points or unlock the goal.
